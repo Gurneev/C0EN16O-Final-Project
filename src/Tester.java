@@ -3,7 +3,7 @@ import javax.swing.SwingUtilities;
 /**
  * Class to Test the project
  * 
- * @author Pranav
+ * @author Pranav, Gurneev
  *
  */
 public class Tester{
